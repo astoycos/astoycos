@@ -1,9 +1,14 @@
-### Hi there 👋
+<p align="center">
+Hi there 👋
+My Name is Andrew Stoycos
+⬇️ is me follow along to see what I do.
+</p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=astoycos.astoycos)
+![kodak_professional_portra_400_03_28_2023_000100280028 (1)](https://github.com/astoycos/astoycos/assets/23533892/c1e1d33f-fafa-44ef-b775-59cc8bb0d309)
 
 <!--
-**astoycos/astoycos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**astoycos/astoycos** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
+appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
