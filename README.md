@@ -1,5 +1,5 @@
 <p align="center">
-Hi there 👋 I am Andrew Stoycos, a Senior Software Engineer with RedHat <img width="25" alt="Screenshot 2023-09-20 at 5 04 12 PM" src="https://github.com/astoycos/astoycos/assets/23533892/ca3aea7e-9ee8-4ce6-b8d7-6d432dddf513">. I have a great time balancing both a deepfound passion for solving complex problems behind the 💻 while also enjoying many other activities 🧗🏄🥾🗻🚴‍♂️⛵ in front of it.
+Hi there 👋 I am Andrew Stoycos, a Software Engineer interested in all things ☁️. I have a great time balancing both a deepfound passion for solving complex problems behind the 💻 while also enjoying many other activities 🧗🏄🥾🗻🚴‍♂️⛵ in front of it.
 </p>
 
 <img align="right" alt="GIF" src="https://github.com/astoycos/astoycos/assets/23533892/c1e1d33f-fafa-44ef-b775-59cc8bb0d309" width="350" height="240" />
